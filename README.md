@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Hi, I'm Rohan Bansal
 
-<!--
-**RohanBansal01/RohanBansal01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring developer passionate about machine learning, web development, and data science. I enjoy building projects that solve real-world problems and continuously seek opportunities to learn and grow.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+### [Heart Disease Prediction](https://github.com/RohanBansal01/Heart-Disease-Prediction)
+A beginner-friendly, Flask-based web application that predicts the risk of heart disease using machine learning models (XGBoost, Scikit-learn). The app is deployed on Render for public access.
+
+**Features:**
+- ✅ User-friendly web interface
+- ✅ Real-time heart disease risk prediction
+- ✅ 85%+ model accuracy (tested on UCI Heart Disease dataset)
+- ✅ Fully responsive design for mobile and desktop
+- ✅ Input validation and secure form handling
+- ✅ Easily customizable for other medical ML projects
+
+**Live Demo:** [Heart Disease Prediction App](https://heart-disease-prediction-4go2.onrender.com)
+
+---
+
+### [Movie Recommendation System](https://github.com/RohanBansal01/Movie-Recommendation-System)
+A content-based movie recommendation system that suggests movies similar to the user's favorite ones.
+
+**Features:**
+- ✅ Utilizes cosine similarity for recommendations
+- ✅ Interactive web interface built with Streamlit
+- ✅ Deployed for easy access and use
+
+**Live Demo:** [Movie Recommendation App](https://movie-recommendation-system-xyz.onrender.com)
+
+---
+
+## 🛠️ Technologies & Tools
+
+- **Languages:** Python, JavaScript, HTML, CSS
+- **Frameworks:** Flask, Streamlit
+- **Libraries:** Scikit-learn, XGBoost, Pandas, NumPy
+- **Tools:** Git, GitHub, Render
+
+---
+
+## 📫 Connect with Me
+
+- GitHub: [RohanBansal01](https://github.com/RohanBansal01)
+- LinkedIn: [Rohan Bansal](https://www.linkedin.com/in/rohan-bansal-professional/)
+- Email: rohan.bansal@example.com
+
+---
+
+*Feel free to explore my repositories and reach out if you'd like to collaborate on a project or discuss ideas!*
+
