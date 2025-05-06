@@ -12,7 +12,7 @@ A beginner-friendly, Flask-based web application that predicts the risk of heart
 **Features:**
 - ✅ User-friendly web interface
 - ✅ Real-time heart disease risk prediction
-- ✅ 85%+ model accuracy (tested on UCI Heart Disease dataset)
+- ✅ 99%+ model accuracy (tested on UCI Heart Disease dataset)
 - ✅ Fully responsive design for mobile and desktop
 - ✅ Input validation and secure form handling
 - ✅ Easily customizable for other medical ML projects
@@ -35,7 +35,7 @@ A content-based movie recommendation system that suggests movies similar to the 
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** Python, JavaScript, HTML, CSS
+- **Languages:** Python, JavaScript, HTML, CSS,Java
 - **Frameworks:** Flask, Streamlit
 - **Libraries:** Scikit-learn, XGBoost, Pandas, NumPy
 - **Tools:** Git, GitHub, Render
@@ -46,7 +46,7 @@ A content-based movie recommendation system that suggests movies similar to the 
 
 - GitHub: [RohanBansal01](https://github.com/RohanBansal01)
 - LinkedIn: [Rohan Bansal](https://www.linkedin.com/in/rohan-bansal-professional/)
-- Email: rohan.bansal@example.com
+- Email: rohanbansalcse.com
 
 ---
 
