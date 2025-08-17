@@ -69,13 +69,7 @@ I’m a **B.Tech Computer Science Graduate** passionate about **JAVA Full-Stack 
 * Uses TMDB datasets and NLP preprocessing
 * Cosine similarity-based recommendations
 * Efficient, precomputed similarity matrix for fast lookups
-
----
-
-## 📈 GitHub Stats
-
-![Rohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RohanBansal01\&show_icons=true\&count_private=true)
-
+* 
 ---
 
 ## 🌱 Currently Learning
