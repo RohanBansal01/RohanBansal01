@@ -9,8 +9,8 @@ I’m a **B.Tech Computer Science Graduate** passionate about **JAVA Full-Stack 
 ## 🛠️ Skills & Technologies
 
 * **Languages:** Python, Java, JavaScript, C++
-* **Frontend:** React, HTML, CSS, Tailwind
-* **Backend:** Node.js, Express.js, Flask
+* **Frontend:**  HTML, CSS
+* **Backend:** JDBC, Hibernate, SpringMVC, SpringBoot, Flask
 * **Databases:** MySQL, PostgreSQL
 * **Machine Learning & Data Science:** scikit-learn, TensorFlow, Pandas, NumPy
 * **Tools:** Git, GitHub, Redis basics, Docker basics
