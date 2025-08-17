@@ -82,7 +82,7 @@ I’m a **B.Tech Computer Science Graduate** passionate about **JAVA Full-Stack 
 
 ## 📫 Connect with Me
 
-* [LinkedIn](https://www.linkedin.com/in/rohanbansal01)](https://www.linkedin.com/in/rohan-bansal-professional/)
+* [LinkedIn][(https://www.linkedin.com/in/rohan-bansal-professional/)]
 * [Email](mailto:rohanbansalcse@gmail.com)
 
 ---
