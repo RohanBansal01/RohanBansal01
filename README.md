@@ -48,7 +48,7 @@ I’m a **B.Tech Computer Science Graduate** passionate about **JAVA Full-Stack 
 **Highlights:**
 
 * Real-time heart disease risk prediction
-* 85%+ model accuracy (UCI dataset)
+* 99%+ model accuracy (UCI dataset)
 * Fully responsive, user-friendly interface
 * Input validation and secure form handling
 * Easily customizable for other medical ML projects
@@ -69,7 +69,6 @@ I’m a **B.Tech Computer Science Graduate** passionate about **JAVA Full-Stack 
 * Uses TMDB datasets and NLP preprocessing
 * Cosine similarity-based recommendations
 * Efficient, precomputed similarity matrix for fast lookups
-* 
 ---
 
 ## 🌱 Currently Learning
