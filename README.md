@@ -2,7 +2,7 @@
 
 # 👋 Hi, I’m Rohan Bansal
 
-I’m a **B.Tech Computer Science Graduate** passionate about **Full-Stack Development and Data Science, Machine Learning**. I enjoy building real-world applications and contributing to open-source.
+I’m a **B.Tech Computer Science Graduate** passionate about **JAVA Full-Stack Development and Data Science, Machine Learning**. I enjoy building real-world applications and contributing to open-source.
 
 ---
 
@@ -18,8 +18,25 @@ I’m a **B.Tech Computer Science Graduate** passionate about **Full-Stack Devel
 ---
 
 ## 💼 Projects
+---
 
-### 1. [❤️🩺 Heart Disease Prediction System](https://github.com/RohanBansal01/heartcure)
+### 1. [Feedback Fusion](https://github.com/RohanBansal/FeedbackFusion)
+
+[![Java + AWT](https://img.shields.io/badge/Language-Java%20%2B%20AWT-orange)](https://www.java.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/RohanBansal/FeedbackFusion?style=social)](https://github.com/RohanBansal/FeedbackFusion/stargazers)
+
+**Description:** A professional Java AWT desktop application for managing feedback records. Provides a GUI to perform CRUD operations and view feedback in a structured format.
+
+**Highlights:**
+
+* Create, read, update, delete feedback records
+* Optional background images and semi-transparent panels for enhanced UI
+* MySQL database integration via JDBC
+
+---
+
+### 2. [❤️🩺 Heart Disease Prediction System](https://github.com/RohanBansal01/heartcure)
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
 ![Flask](https://img.shields.io/badge/Flask-2.3-green)
@@ -40,7 +57,7 @@ I’m a **B.Tech Computer Science Graduate** passionate about **Full-Stack Devel
 
 ---
 
-### 2. [Movie Recommendation System 🎬](https://github.com/RohanBansal01/Movie-Recommendation-System)
+### 3. [Movie Recommendation System 🎬](https://github.com/RohanBansal01/Movie-Recommendation-System)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 [![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
@@ -55,22 +72,6 @@ I’m a **B.Tech Computer Science Graduate** passionate about **Full-Stack Devel
 
 ---
 
-### 3. [Feedback Fusion](https://github.com/RohanBansal/FeedbackFusion)
-
-[![Java + AWT](https://img.shields.io/badge/Language-Java%20%2B%20AWT-orange)](https://www.java.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/RohanBansal/FeedbackFusion?style=social)](https://github.com/RohanBansal/FeedbackFusion/stargazers)
-
-**Description:** A professional Java AWT desktop application for managing feedback records. Provides a GUI to perform CRUD operations and view feedback in a structured format.
-
-**Highlights:**
-
-* Create, read, update, delete feedback records
-* Optional background images and semi-transparent panels for enhanced UI
-* MySQL database integration via JDBC
-
----
-
 ## 📈 GitHub Stats
 
 ![Rohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RohanBansal01\&show_icons=true\&count_private=true)
@@ -80,7 +81,7 @@ I’m a **B.Tech Computer Science Graduate** passionate about **Full-Stack Devel
 ## 🌱 Currently Learning
 
 * Advanced Machine Learning & Deep Learning
-* Full-stack development (MERN stack)
+* Full-stack development (JAVA FULL stack)
 * Cloud technologies and CI/CD
 
 ---
