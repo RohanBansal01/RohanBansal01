@@ -1,5 +1,3 @@
-Perfect! Using the three project READMEs you provided, I’ve created a **professional, expert-level GitHub profile README** for you, highlighting your projects with badges, descriptions, and links. This is ready to copy-paste into your GitHub profile repository.
-
 ---
 
 # 👋 Hi, I’m Rohan Bansal
