@@ -1,54 +1,96 @@
-# 👋 Hi, I'm Rohan Bansal
-
-Aspiring developer passionate about machine learning, web development, and data science. I enjoy building projects that solve real-world problems and continuously seek opportunities to learn and grow.
+Perfect! Using the three project READMEs you provided, I’ve created a **professional, expert-level GitHub profile README** for you, highlighting your projects with badges, descriptions, and links. This is ready to copy-paste into your GitHub profile repository.
 
 ---
 
-## 🚀 Projects
+# 👋 Hi, I’m Rohan Bansal
 
-### [Heart Disease Prediction](https://github.com/RohanBansal01/Heart-Disease-Prediction)
-A beginner-friendly, Flask-based web application that predicts the risk of heart disease using machine learning models (XGBoost, Scikit-learn). The app is deployed on Render for public access.
-
-**Features:**
-- ✅ User-friendly web interface
-- ✅ Real-time heart disease risk prediction
-- ✅ 99%+ model accuracy (tested on UCI Heart Disease dataset)
-- ✅ Fully responsive design for mobile and desktop
-- ✅ Input validation and secure form handling
-- ✅ Easily customizable for other medical ML projects
-
-**Live Demo:** [Heart Disease Prediction App](https://heart-disease-prediction-4go2.onrender.com)
+I’m a **B.Tech Computer Science Graduate** passionate about **Full-Stack Development and Data Science, Machine Learning**. I enjoy building real-world applications and contributing to open-source.
 
 ---
 
-### [Movie Recommendation System](https://github.com/RohanBansal01/Movie-Recommendation-System)
-A content-based movie recommendation system that suggests movies similar to the user's favorite ones.
+## 🛠️ Skills & Technologies
 
-**Features:**
-- ✅ Utilizes cosine similarity for recommendations
-- ✅ Interactive web interface built with Streamlit
-- ✅ Deployed for easy access and use
-
-**Live Demo:** [Movie Recommendation App](https://movie-recommendation-system-xyz.onrender.com)
+* **Languages:** Python, Java, JavaScript, C++
+* **Frontend:** React, HTML, CSS, Tailwind
+* **Backend:** Node.js, Express.js, Flask
+* **Databases:** MySQL, PostgreSQL
+* **Machine Learning & Data Science:** scikit-learn, TensorFlow, Pandas, NumPy
+* **Tools:** Git, GitHub, Redis basics, Docker basics
 
 ---
 
-## 🛠️ Technologies & Tools
+## 💼 Projects
 
-- **Languages:** Python, JavaScript, HTML, CSS,Java
-- **Frameworks:** Flask, Streamlit
-- **Libraries:** Scikit-learn, XGBoost, Pandas, NumPy
-- **Tools:** Git, GitHub, Render
+### 1. [❤️🩺 Heart Disease Prediction System](https://github.com/RohanBansal01/heartcure)
+
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![Flask](https://img.shields.io/badge/Flask-2.3-green)
+![Machine Learning](https://img.shields.io/badge/ML-XGBoost%2C%20Scikit--learn-orange)
+![Status](https://img.shields.io/badge/Status-Live-green)
+
+**Description:** A beginner-friendly, Flask-based web application that predicts the risk of heart disease using ML models. Deployed on Render for public access.
+
+**Highlights:**
+
+* Real-time heart disease risk prediction
+* 85%+ model accuracy (UCI dataset)
+* Fully responsive, user-friendly interface
+* Input validation and secure form handling
+* Easily customizable for other medical ML projects
+
+🔗 **Live Demo:** [heart-disease-prediction-4go2.onrender.com](https://heart-disease-prediction-4go2.onrender.com)
+
+---
+
+### 2. [Movie Recommendation System 🎬](https://github.com/RohanBansal01/Movie-Recommendation-System)
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+[![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
+
+**Description:** A content-based movie recommendation engine built using Python and ML. Suggests movies based on genres, keywords, cast, crew, and plot similarity.
+
+**Highlights:**
+
+* Uses TMDB datasets and NLP preprocessing
+* Cosine similarity-based recommendations
+* Efficient, precomputed similarity matrix for fast lookups
+
+---
+
+### 3. [Feedback Fusion](https://github.com/RohanBansal/FeedbackFusion)
+
+[![Java + AWT](https://img.shields.io/badge/Language-Java%20%2B%20AWT-orange)](https://www.java.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/RohanBansal/FeedbackFusion?style=social)](https://github.com/RohanBansal/FeedbackFusion/stargazers)
+
+**Description:** A professional Java AWT desktop application for managing feedback records. Provides a GUI to perform CRUD operations and view feedback in a structured format.
+
+**Highlights:**
+
+* Create, read, update, delete feedback records
+* Optional background images and semi-transparent panels for enhanced UI
+* MySQL database integration via JDBC
+
+---
+
+## 📈 GitHub Stats
+
+![Rohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RohanBansal01\&show_icons=true\&count_private=true)
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced Machine Learning & Deep Learning
+* Full-stack development (MERN stack)
+* Cloud technologies and CI/CD
 
 ---
 
 ## 📫 Connect with Me
 
-- GitHub: [RohanBansal01](https://github.com/RohanBansal01)
-- LinkedIn: [Rohan Bansal](https://www.linkedin.com/in/rohan-bansal-professional/)
-- Email: rohanbansalcse.com
+* [LinkedIn](https://www.linkedin.com/in/rohanbansal01)](https://www.linkedin.com/in/rohan-bansal-professional/)
+* [Email](mailto:rohanbansalcse@gmail.com)
 
 ---
-
-*Feel free to explore my repositories and reach out if you'd like to collaborate on a project or discuss ideas!*
 
