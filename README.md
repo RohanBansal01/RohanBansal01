@@ -36,7 +36,7 @@ I’m a **B.Tech Computer Science Graduate** passionate about **JAVA Full-Stack 
 
 ---
 
-### 2. [❤️🩺 Heart Disease Prediction System](https://github.com/RohanBansal01/heartcure)
+### 2. [❤️🩺 Heart Disease Prediction System](https://github.com/RohanBansal01/Heart-Disease-Prediction)
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
 ![Flask](https://img.shields.io/badge/Flask-2.3-green)
