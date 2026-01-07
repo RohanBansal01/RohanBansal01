@@ -2,8 +2,6 @@
 
 # 👋 Hi, I’m Rohan Bansal
 
-I’m a **B.Tech Computer Science Graduate** passionate about **JAVA Full-Stack Development and Data Science, Machine Learning**. I enjoy building real-world applications and contributing to open-source.
-
 ---
 
 ## 🛠️ Skills & Technologies
@@ -69,19 +67,12 @@ I’m a **B.Tech Computer Science Graduate** passionate about **JAVA Full-Stack 
 * Uses TMDB datasets and NLP preprocessing
 * Cosine similarity-based recommendations
 * Efficient, precomputed similarity matrix for fast lookups
----
-
-## 🌱 Currently Learning
-
-* Advanced Machine Learning & Deep Learning
-* Full-stack development (JAVA FULL stack)
-* Cloud technologies and CI/CD
 
 ---
 
 ## 📫 Connect with Me
 
-* [LinkedIn](https://www.linkedin.com/in/rohan-bansal-professional/)
+* [LinkedIn](https://www.linkedin.com/in/rohan-likedin/)
 * [Email](mailto:rohanbansalcse@gmail.com)
 
 ---
