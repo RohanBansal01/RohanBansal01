@@ -1,13 +1,13 @@
 ---
 
-# 👋 Hi, I’m Rohan Bansal
+# Hi, I’m Rohan Bansal
 
 ---
 
-## 🛠️ Skills & Technologies
+## Skills & Technologies
 
 * **Languages:** Python, Java, JavaScript, C++
-* **Frontend:**  HTML, CSS
+* **Frontend:** HTML, CSS
 * **Backend:** JDBC, Hibernate, SpringMVC, SpringBoot, Flask
 * **Databases:** MySQL, PostgreSQL
 * **Machine Learning & Data Science:** scikit-learn, TensorFlow, Pandas, NumPy
@@ -15,7 +15,8 @@
 
 ---
 
-## 💼 Projects
+## Projects
+
 ---
 
 ### 1. [Feedback Fusion](https://github.com/RohanBansal/FeedbackFusion)
@@ -34,7 +35,7 @@
 
 ---
 
-### 2. [❤️🩺 Heart Disease Prediction System](https://github.com/RohanBansal01/Heart-Disease-Prediction)
+### 2. [Heart Disease Prediction System](https://github.com/RohanBansal01/Heart-Disease-Prediction)
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
 ![Flask](https://img.shields.io/badge/Flask-2.3-green)
@@ -51,11 +52,11 @@
 * Input validation and secure form handling
 * Easily customizable for other medical ML projects
 
-🔗 **Live Demo:** [heart-disease-prediction-4go2.onrender.com](https://heart-disease-prediction-4go2.onrender.com)
+**Live Demo:** [heart-disease-prediction-4go2.onrender.com](https://heart-disease-prediction-4go2.onrender.com)
 
 ---
 
-### 3. [Movie Recommendation System 🎬](https://github.com/RohanBansal01/Movie-Recommendation-System)
+### 3. [Movie Recommendation System](https://github.com/RohanBansal01/Movie-Recommendation-System)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 [![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
@@ -70,10 +71,9 @@
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 
 * [LinkedIn](https://www.linkedin.com/in/rohan-likedin/)
 * [Email](mailto:rohanbansalcse@gmail.com)
 
 ---
-
